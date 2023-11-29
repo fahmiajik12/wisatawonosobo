@@ -156,7 +156,6 @@
     <img src="https://gusblerogarden.files.wordpress.com/2018/07/logo-the-soul-of-java.png?w=586&h=385" class="img-fluid mx-4 mb-5" style="height: 120px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Lambang_Polda_Jateng.png" class="img-fluid mx-4 mb-5" style="height: 120px;">
     <img src="https://upload.wikimedia.org/wikipedia/id/thumb/c/c4/Bank_Jateng_logo.svg/1200px-Bank_Jateng_logo.svg.png" class="img-fluid mx-4 mb-5" style="height: 120px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Institut_Teknologi_Telkom_Purwokerto_Versi_Vertikal.png" class="img-fluid mx-4 mb-5" style="height: 120px;">
     <img src="https://www.its.ac.id/wp-content/uploads/2019/03/LOGO-BARU-TELKOM.png" class="img-fluid mx-4 mb-5" style="height: 120px;">
   </div>
   <!-- End Didukung Oleh -->
